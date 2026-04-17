@@ -15,7 +15,7 @@
       align-items: center;
       background: #D5B893;
       color: #25344F;
-      font-family: 'Roboto', sans-serif;
+      font-family: 'Roboto', sans-serif !important;
       text-align: center;
       padding: 20px;
     }
