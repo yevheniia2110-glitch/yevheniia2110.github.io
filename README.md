@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>Zitate</title>
 
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Engagement&display=swap" rel="stylesheet">
 
   <style>
     body {
@@ -13,17 +13,17 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      background: antiquewhite;
-      color: midnightblue;
-      font-family: 'Playfair Display', serif;
+      background: #D5B893;
+      color: #25344F;
+      font-family: 'Engagement';
       text-align: center;
       padding: 20px;
     }
 
     #quote {
-      font-size: 4rem;
-      max-width: 800px;
-      line-height: 2;
+      font-size: 7rem;
+      max-width: 900px;
+      line-height: 1;
     }
   </style>
 </head>
