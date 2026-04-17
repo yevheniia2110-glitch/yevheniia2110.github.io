@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="eng">
 <head>
   <meta charset="UTF-8">
   <title>Zitate</title>
