@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="eng">
+<html lang="de">
 <head>
   <meta charset="UTF-8">
-  <title>Zitate</title>
+  <title>Zitaten</title>
 
   <link href="https://fonts.googleapis.com/css2?family=Engagement&display=swap" rel="stylesheet">
 
@@ -15,7 +15,7 @@
       align-items: center;
       background: #D5B893;
       color: #25344F;
-      font-family: 'Engagement';
+      font-family: 'Engagement', serif;
       text-align: center;
       padding: 20px;
     }
